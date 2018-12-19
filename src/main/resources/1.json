@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "test",
+  "startPoint": {
+    "longitude": 1.0,
+    "width": 1.0
+  },
+  "endPoint": {
+    "longitude": 2.0,
+    "width": 2.0
+  },
+  "status": "test"
+}
